@@ -1,0 +1,16 @@
+{
+    "name": "sanjaypaudel/esewa",
+    "description": "Esewa payment integration",
+    "autoload": {
+        "psr-4": {
+            "Sanjaypaudel\\Esewa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sanjaypaudel",
+            "email": "sanjay.paudel@hazesoft.co"
+        }
+    ],
+    "require": {}
+}
